@@ -1,5 +1,8 @@
 #MAGLEADS
 
+- Learn: Node.js, Express, MySQL 
+    - https://www.youtube.com/watch?v=vrj9AohVhPA
+
 - Open-source project so people can add places to the database
 - Can we access google businesses' database (not sure) 
 - Can also be used for people who simply want to see what they can do that day for fun (not just for leads)
