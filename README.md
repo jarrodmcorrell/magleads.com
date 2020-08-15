@@ -2,6 +2,7 @@
 
 - Learn: Node.js, Express, MySQL 
     - https://www.youtube.com/watch?v=vrj9AohVhPA
+    - https://www.youtube.com/watch?v=7FjhF6Hy9gY
 
 - Open-source project so people can add places to the database
 - Can we access google businesses' database (not sure) 
@@ -42,6 +43,8 @@ Scraping
 --------
 
 - Facebook, Instagram, Twitter, Google myBusiness, YellowPages, Other Databases online
+
+- https://www.youtube.com/watch?v=7FjhF6Hy9gY
 
 Database
 --------
