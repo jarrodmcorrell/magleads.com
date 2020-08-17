@@ -1,0 +1,29 @@
+body{
+    font-family: 'Comfortaa', cursive;
+    margin: 15px;
+    padding: 20px;
+}
+
+input{
+    margin: 6px;
+}
+
+table{
+    margin-top: 80px;   
+}
+
+table, th, td{
+    border-collapse: collapse;
+    border: 1px solid;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+td{
+    font-size: 12px;
+}
+
+#section-table{
+    text-align: center;
+    padding-left: 0%;
+}

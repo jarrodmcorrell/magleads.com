@@ -1,5 +1,14 @@
 #MAGLEADS
 
+Requirements
+------------
+
+- Node.js/npm
+- Express
+- XAMPP
+- HTML preview hotkey (ctrl shift v) or (ctrl k v)
+
+
 - Learn: Node.js, Express, MySQL 
     - https://www.youtube.com/watch?v=vrj9AohVhPA
     - https://www.youtube.com/watch?v=7FjhF6Hy9gY

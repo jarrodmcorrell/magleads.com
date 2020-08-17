@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MAGLEADS.com</title>
+    <link href="https://fonts.googleapis.com/css2?family=Baloo+Tamma+2:wght@500&family=Comfortaa:wght@300;400&display=swap" rel="stylesheet">    
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1 style="text-align:center">MAGLEADS</h1>
+
+    <div id="section-search">
+        <h3>Search</h3>
+        <label>Business: </label>
+        <input type="text" id="search-input">
+        <select name="howtosearch" id="dropdown">
+            <option id="name">Name</option>
+            <option id="type">Type</option>
+            <option id="location">Location</option>
+        </select>
+        <button>Search</button>
+    </div><br>
+
+    <div id="section-add">
+        <h3>Add a Business</h3>
+        <label>Name: </label>
+        <input type="text" id="add-input-name"><br>
+        <label>Type: </label>
+        <input type="text" id="add-input-type"><br>
+        <label>Location: </label>
+        <input type="text" id="add-input-location"><br>
+        <label>Phone Number: </label>
+        <input type="text" id="add-input-phone"><br>
+        <label>Email: </label>
+        <input type="text" id="add-input-email"><br>
+        <button>Add</button>
+    </div><br>
+
+    <div id="section-table">
+        <table id="premium-table">
+            <thead>
+                <th>Name</th>
+                <th>Type</th>
+                <th>Location</th>
+                <th>Phone #</th>
+                <th>Email</th>
+            </thead>
+            <tbody id="premium-table-body"></tbody>
+        </table>
+    </div>
+    <script src="index.js"></script>
+</body>
+</html>
