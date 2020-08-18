@@ -1,15 +1,15 @@
 body{
-    font-family: 'Comfortaa', cursive;
+    /*font-family: 'Comfortaa', cursive;*/
     margin: 15px;
     padding: 20px;
 }
 
 input{
-    margin: 6px;
+    margin: 4px;
 }
 
 table{
-    margin-top: 80px;   
+    margin-top: 40px;   
 }
 
 table, th, td{

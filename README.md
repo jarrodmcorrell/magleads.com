@@ -2,12 +2,20 @@
 
 Requirements
 ------------
+$ npm init -y
+$ npm install express
+$ npm install mysql
+$ npm install dotenv
+$ npm install nodemon --save-dev
+    or
+        $ npm install -g nodemon
+$ npm install cors
 
+-Git bash?
 - Node.js/npm
 - Express
 - XAMPP
 - HTML preview hotkey (ctrl shift v) or (ctrl k v)
-
 
 - Learn: Node.js, Express, MySQL 
     - https://www.youtube.com/watch?v=vrj9AohVhPA
